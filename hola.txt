@@ -1,2 +1,3 @@
 Hola, este es mi primer archivo de Git y GitHub.
 Este cambio se ha realizado directamente desde GitHub.
+Modificación realizada desde GitHub para provocar una divergencia.
