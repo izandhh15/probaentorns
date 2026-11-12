@@ -1,5 +1,8 @@
-Hola, este cambio viene de la rama main.
+
+Hola, este cambio combina de la rama main y desarrollo.
 Este cambio se ha realizado directamente desde GitHub.
 Modificación realizada desde GitHub para provocar una divergencia.
 Modificación realizada desde Linux Mint para provocar una divergencia.
 
+Primer cambio realizado en la rama desarrollo.
+Segundo cambio realizado en la rama desarrollo.
